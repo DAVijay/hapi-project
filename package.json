@@ -1,0 +1,23 @@
+{
+  "name": "hapi-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "hapi": "^16.6.3",
+    "hapi-cors-headers": "^1.0.3",
+    "hapi-mongoose": "^2.0.0",
+    "hapi-sequelize": "^3.0.5",
+    "hapi-swagger": "^9.1.1",
+    "httpserver": "^0.3.0",
+    "joy": "^0.1.1",
+    "joystick": "^0.1.2"
+  }
+}
